@@ -23,7 +23,7 @@ if let topViewController = UIApplication.topViewController() {
 
 ```
 
-Use [Optional Binding](https://developer.apple.com/documentation/swift/optional) just in case if the controller is not found to prevent unintended behaviour of this extension.
+* Use [Optional Binding](https://developer.apple.com/documentation/swift/optional) just in case if the controller is not found to prevent unintended behaviour of this extension.
 
 ## Contributions
 
