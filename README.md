@@ -24,6 +24,7 @@ if let topViewController = UIApplication.topViewController() {
 ```
 
 * Use [Optional Binding](https://developer.apple.com/documentation/swift/optional) just in case if the controller is not found to prevent unintended behaviour of this extension.
+* Weather you are using Navigation controller or TabBar controller or simple presented controller, this extension will give the exact controller you want.
 
 ## Contributions
 
